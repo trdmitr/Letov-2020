@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c92e876.css",
-    "main.js": "/static/js/main.0d3c3fa3.js",
-    "static/js/787.db786a6c.chunk.js": "/static/js/787.db786a6c.chunk.js",
-    "static/media/marckscript.ttf": "/static/media/marckscript.d222292cedbb1435b41f.ttf",
-    "static/media/marckscript.woff": "/static/media/marckscript.e4340c838628cc41120c.woff",
-    "static/media/marckscript.woff2": "/static/media/marckscript.66f30400f2dd8a375c19.woff2",
-    "index.html": "/index.html",
-    "main.9c92e876.css.map": "/static/css/main.9c92e876.css.map",
-    "main.0d3c3fa3.js.map": "/static/js/main.0d3c3fa3.js.map",
-    "787.db786a6c.chunk.js.map": "/static/js/787.db786a6c.chunk.js.map"
+    "main.css": "/Letov-2020/static/css/main.821f1e65.css",
+    "main.js": "/Letov-2020/static/js/main.1a3d276d.js",
+    "static/js/787.db786a6c.chunk.js": "/Letov-2020/static/js/787.db786a6c.chunk.js",
+    "static/media/marckscript.ttf": "/Letov-2020/static/media/marckscript.d222292cedbb1435b41f.ttf",
+    "static/media/marckscript.woff": "/Letov-2020/static/media/marckscript.e4340c838628cc41120c.woff",
+    "static/media/marckscript.woff2": "/Letov-2020/static/media/marckscript.66f30400f2dd8a375c19.woff2",
+    "index.html": "/Letov-2020/index.html",
+    "main.821f1e65.css.map": "/Letov-2020/static/css/main.821f1e65.css.map",
+    "main.1a3d276d.js.map": "/Letov-2020/static/js/main.1a3d276d.js.map",
+    "787.db786a6c.chunk.js.map": "/Letov-2020/static/js/787.db786a6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c92e876.css",
-    "static/js/main.0d3c3fa3.js"
+    "static/css/main.821f1e65.css",
+    "static/js/main.1a3d276d.js"
   ]
 }
