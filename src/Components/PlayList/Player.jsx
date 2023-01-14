@@ -6,6 +6,9 @@ import "react-h5-audio-player/lib/styles.css";
 import LoaderStrick from '../UI/Loader/LoaderStrick';
 const Player = ({songs, songError}) => {
     const [trackIndex, setTrackIndex] = useState(0);
+    // const [test, setTest] = useState(0)
+    // const testsong = setTest({...songs, nameTest: name})
+    // console.log("NAME", testsong)
     const audiosongs1 = songs.map((song) => {
         const container = {};
          container.name = song.name;
