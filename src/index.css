@@ -1,0 +1,67 @@
+/* @import url('https://fonts.cdnfonts.com/css/cassandra-personal-use'); */
+/* Please do not use this import in production. You could download this font from here https://fontstorage.com/font/nautilus */
+/* Please do not use this import in production. You could download this font from here https://fontstorage.com/font/marckscript */
+@import "https://fonts.fontstorage.com/import/marckscript.css";
+/*
+	Marck Script, 400
+*/
+
+@font-face {
+  font-family: 'Marck Script';
+  src: local('Marck Script'), local('MarckScript-Regular'), url("./fonts/MarckScript/marckscript.woff2") format('woff2'), url('./fonts/MarckScript/marckscript.woff') format('woff'), url('./fonts/MarckScript/marckscript.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: "Marck Script";
+                                                
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+;
+* {
+  padding: 0;
+  /* margin: 0; */
+  /* box-sizing: border-box; */
+}
+
+body {
+  background-color: #151616;
+}
+:root {
+  --colorBackgroundAll: #bbb;
+  --colorHeader: #3B643B;
+  --colorText: rgb(20, 5, 5);
+  --tributeAfterBefore: hsl(0, 0%, 70%);
+  --titleSongColor: #e7edee;
+
+  --allBackroundImage: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='40' viewBox='0 0 50 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23241e2e' fill-opacity='0.18'%3E%3Cpath d='M40 10L36.67 0h-2.11l3.33 10H20l-2.28 6.84L12.11 0H10l6.67 20H10l-2.28 6.84L2.11 10 5.44 0h-2.1L0 10l6.67 20-3.34 10h2.11l2.28-6.84L10 40h20l2.28-6.84L34.56 40h2.1l-3.33-10H40l2.28-6.84L47.89 40H50l-6.67-20L50 0h-2.1l-5.62 16.84L40 10zm1.23 10l-2.28-6.84L34 28h4.56l2.67-8zm-10.67 8l-2-6h-9.12l2 6h9.12zm-12.84-4.84L12.77 38h15.79l2.67-8H20l-2.28-6.84zM18.77 20H30l2.28 6.84L37.23 12H21.44l-2.67 8zm-7.33 2H16l-4.95 14.84L8.77 30l2.67-8z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  --textShadow: 0px 1px 0px #fafafa;
+  --backGround: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#e2e2e2));
+  --backGRound: -moz-linear-gradient(top, #eee, #e2e2e2);
+  --boxShadow: inset 1px 1px 0 #f5f5f5;
+
+
+  --searchBackground: #18191f;
+  --searchText: #ffffff;
+  --searchPlaceHolder: #575a77;
+  --playerBackground: #18191f;
+  
+  --timeColor: #ffffff;
+  --progressSlider: #9440f3;
+  --progressUsed: #ffffff;
+  --progressLeft: #151616;
+  --volumeSlider: #9440f3;
+  --volumeUsed: #ffffff;
+  --volumeLeft:  #151616;
+  --playlistBackground: #18191f;
+  --playlistText: #575a77;
+  --playlistBackgroundHoverActive:  #18191f;
+  --playlistTextHoverActive: #ffffff;
+}
